@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fakmalpradana
 - 👀 I’m interested in python spatial data science and WebGIS Development
-- 🌱 I’m currently learning machine learning and full-stack web development
+- 🌱 I’m currently learning remote sensing and back end web development, also I'm currently had project about CNN development
 - 📫 How to reach me : fakmalpradana@gmail.com
 
 <!---
